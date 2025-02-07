@@ -1,0 +1,25 @@
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Ignore crash reports
+CrashReport/
+
+# Ignore IDE-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.opendb
+*.VC.db
