@@ -9,9 +9,24 @@ EditorBuildSettings:
     path: Assets/Scenes/StartMenu.unity
     guid: 9a09e01823490fe4da9874d6a8f14c49
   - enabled: 1
+    path: Assets/Scenes/SelectMenu.unity
+    guid: bef5ebdc10040b04896cbc8b831f23ac
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 6bb3de26ebe84ed42bb91eb598d63b9c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 74de55f0b6b2682449b4c253cdbfbfb5
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: ae5563dbf4b7cac4aaadec8188d04644
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: a606c5ccf3ff60d4b992d3750abde79e, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2f480ece6d663254092ef6ad3ec2560f, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 7fcd02a9b17680549b31abd20ea276b5, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 473ecabd3b63b174aafe73d5cc75b45a, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

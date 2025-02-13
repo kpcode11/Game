@@ -1,4 +1,3 @@
 repository "Game/Game@13469737653528@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main" changeset "9"         
