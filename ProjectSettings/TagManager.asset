@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Obstacle
+  - Coins
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -18,8 +20,8 @@ TagManager:
   - PlayerHitbox
   - EnemyHitbox
   - GroundDetection
-  - 
-  - 
+  - Pickup
+  - FinishPoint
   - 
   - 
   - 
